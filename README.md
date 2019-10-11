@@ -14,4 +14,6 @@ Based on simple Yii2 advanced template
 7. login
 8. check it
 
+> apple become expired 10 seconds after fall
+
 ![Screenshot](example.png)
